@@ -1,6 +1,6 @@
-## 👋 Hi, I'm 王沁扬 (Qinyang Wang)
+## 👋 Hi, I'm 王沁扬 (Qinyang Wang/Lyra Wang)
 
-视觉交互 · 机器人 · 触觉反馈 · Web 应用
+计算机视觉 · 具身智能 · 深度学习 · UX设计 
 
 🔗 **作品集主页：[wqyorxyq.github.io](https://wqyorxyq.github.io/)** —— 点击下方任一项目即可进入它的页面
 
