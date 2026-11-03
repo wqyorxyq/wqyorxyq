@@ -2,7 +2,7 @@
 
 计算机视觉 · 具身智能 · 深度学习 · UX设计 
 
-🔗 **作品集主页：[wqyorxyq.github.io](https://wqyorxyq.github.io/)** —— 点击下方任一项目即可进入它的页面
+🔗 **作品集主页：[wqyorxyq.github.io](https://wqyorxyq.github.io/)** —— 点击下方任一项目进入页面看看我的工作^^
 
 <table>
 <tr><td width="45%"><a href="https://wqyorxyq.github.io/projects/echorate/"><img src="https://raw.githubusercontent.com/wqyorxyq/wqyorxyq.github.io/main/assets/echorate.png" alt="EchoRate"></a></td>
